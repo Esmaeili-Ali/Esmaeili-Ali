@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Esmaeili-Ali<br>- 🌱 I’m currently learning...<br>- 💻 Currently working at SourenaGames <br>- Why did the developer go broke?<br>Because he used up all his cache! 💸
+- 👋 Hi, I’m @Esmaeili-Ali<br>- 🌱 I’m currently learning...<br>- 💻 Currently working at SourenaGames
 
 
 ## 🌐 Socials:
