@@ -59,12 +59,11 @@ Every repository tells the story of something I've learned, built, or improved.
 ## 🌟 Featured Projects
 
 | Project | Status | Description |
-|:-------- |:-----:|------------|
-| 🎬 **[Movie Platform](...)** | 🚧 | Full-stack streaming platform built with Next.js, NestJS & PostgreSQL |
-| 💻 **[GSAP MacBook Landing](...)** | ✅ | Apple-inspired landing page with GSAP animations |
-| 🤖 **[Telegram Support Bot](...)** | 🔜 | Business support bot with Telegram Bot API |
-| 📱 **[Habit Tracker](...)** | 🔜 | Cross-platform productivity app |
-| ❤️ **[Persian Tinder](...)** | 🔜 | Mobile matchmaking application |
+|:-------- |:----------------------:|------------|
+| 💻 **[GSAP MacBook Landing](...)** | ✅ **Completed** | Apple-inspired landing page with GSAP animations |
+| 🎬 **[Movie Platform](...)** | 📝 **Planning** | Full-stack streaming platform built with Next.js, NestJS & PostgreSQL |
+
+
 
 ###
 
