@@ -1,14 +1,13 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-
-# Welcome !
-
+  <h1>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
+    Hi There
+  </h1>
 </div>
 
 ###
 
-## 👋 Hi, I'm Ali.
+## I'm Ali.
 
 Frontend Developer building modern web applications with React and Next.js.
 
