@@ -6,7 +6,7 @@
 
 ###
 
-## I'm Ali.
+## 👋 Hey, I'm Ali.
 
 Software Developer specializing in modern web applications with React and Next.js.
 
@@ -17,25 +17,6 @@ Learning, building, breaking, fixing, and repeating.
 Every repository tells the story of something I've learned, built, or improved.
 
 ###
-
-## 🚀 Current Focus
-
-- 🎬 Building a Full-Stack Movie Platform
-- ⚙️ Learning NestJS & PostgreSQL
-- 🐍 Exploring Python
-- ⚡ Learning Electron for cross-platform desktop apps
-
-###
-
-## 🌟 Featured Projects
-
-| Project | Status | Description |
-|:-------- |:-----:|------------|
-| 🎬 **[Movie Platform](...)** | 🚧 | Full-stack streaming platform built with Next.js, NestJS & PostgreSQL |
-| 💻 **[GSAP MacBook Landing](...)** | ✅ | Apple-inspired landing page with GSAP animations |
-| 🤖 **[Telegram Support Bot](...)** | 🔜 | Business support bot with Telegram Bot API |
-| 📱 **[Habit Tracker](...)** | 🔜 | Cross-platform productivity app |
-| ❤️ **[Persian Tinder](...)** | 🔜 | Mobile matchmaking application |
 
 ## 💻 Technologies I Work With
 
@@ -73,23 +54,17 @@ Every repository tells the story of something I've learned, built, or improved.
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
 </div>
 
-## 📬 Get in Touch
-
 ###
 
-<p align="center">
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-esmaeiili/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ali.Esmaeili.Dev@gmail.com)
-</p>
-<!-- <div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/ali-esmaeiili/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:Ali.Esmaeili.Dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div> -->
+## 🌟 Featured Projects
+
+| Project | Status | Description |
+|:-------- |:-----:|------------|
+| 🎬 **[Movie Platform](...)** | 🚧 | Full-stack streaming platform built with Next.js, NestJS & PostgreSQL |
+| 💻 **[GSAP MacBook Landing](...)** | ✅ | Apple-inspired landing page with GSAP animations |
+| 🤖 **[Telegram Support Bot](...)** | 🔜 | Business support bot with Telegram Bot API |
+| 📱 **[Habit Tracker](...)** | 🔜 | Cross-platform productivity app |
+| ❤️ **[Persian Tinder](...)** | 🔜 | Mobile matchmaking application |
 
 ###
 
@@ -113,3 +88,35 @@ Every repository tells the story of something I've learned, built, or improved.
 </picture>
 
 ###
+
+## 🚀 Current Focus
+
+- 🎬 Building a Full-Stack Movie Platform
+- ⚙️ Learning NestJS & PostgreSQL
+- 🐍 Exploring Python
+- ⚡ Learning Electron for cross-platform desktop apps
+
+###
+
+
+
+## 📬 Get in Touch
+
+<p align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-esmaeiili/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ali.Esmaeili.Dev@gmail.com)
+</p>
+<!-- <div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/ali-esmaeiili/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:Ali.Esmaeili.Dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div> -->
+
+###
+
+
+
