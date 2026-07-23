@@ -7,7 +7,7 @@
 </div>
 
 
-## 🌈 A little about me
+##  A little about me
 
 Hi 👋
 
