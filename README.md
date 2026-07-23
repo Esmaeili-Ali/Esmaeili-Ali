@@ -89,8 +89,8 @@ Every repository tells the story of something I've learned, built, or improved.
   <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 <p align="center">
   <a href="https://github.com/Esmaeili-Ali">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esmaeili-Ali&custom_title=Contribution%20Graph&bg_color=0d1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true"
-      alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esmaeili-Ali&custom_title=⚡Contribution%20Activity&bg_color=0d1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true"
+      alt="⚡ Contribution Activity">
   </a>
 </p>
 </div>
