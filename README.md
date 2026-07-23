@@ -1,9 +1,8 @@
-<div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
-    Hi There
-  </h1>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software%20Developer%3BBuilding%20software%20that%20solves%20real-world%20problems." alt="Typing SVG" />
+  </a>
+</p>
 
 ###
 
