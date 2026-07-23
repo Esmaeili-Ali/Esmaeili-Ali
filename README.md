@@ -68,20 +68,30 @@ Every repository tells the story of something I've learned, built, or improved.
 
 ###
 
-<div data-importer="socials" align="center">
+<p align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-esmaeiili/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:Ali.Esmaeili.Dev@gmail.com)
+</p>
+<!-- <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/ali-esmaeiili/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:Ali.Esmaeili.Dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
+</div> -->
 
 ###
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<p align="center">
+  <a href="https://github.com/octocat">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=octocat&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
 </div>
 
 ###
