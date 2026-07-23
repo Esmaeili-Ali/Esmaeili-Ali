@@ -2,16 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
-# Hey, What's Up? 
+# Welcome !
 
 </div>
 
+###
 
-##  A little about me
-
-Hi 👋
-
-I'm Ali.
+## 👋 Hi, I'm Ali.
 
 Frontend Developer building modern web applications with React and Next.js.
 
@@ -19,9 +16,20 @@ I believe the best way to learn is by building.
 
 Learning, building, breaking, fixing, and repeating.
 
-Each repository reflects a step in my journey as a software developer.
+Every repository tells the story of something I've learned, built, or improved.
 
-## ⚡ My Toolbox
+###
+
+## 🚀 Current Focus
+
+- 🎬 Building a Full-Stack Movie Platform
+- ⚙️ Learning NestJS & PostgreSQL
+- 🐍 Exploring Python
+- ⚡ Planning Electron applications
+
+###
+
+## 💻 Technologies I Work With
 
 <div align="center">
 
@@ -57,18 +65,22 @@ Each repository reflects a step in my journey as a software developer.
 </div>
 </div>
 
-## 👇 Let's vibe
+## 📬 Get in Touch
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/ali-esmaeiili/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="ali.zoom" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="Ali.Esmaeili.Dev@gmail.com" target="_blank">
+  <a href="mailto:Ali.Esmaeili.Dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
@@ -78,19 +90,5 @@ Each repository reflects a step in my journey as a software developer.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
 
 ###
