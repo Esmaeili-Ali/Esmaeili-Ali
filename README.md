@@ -8,7 +8,7 @@
 
 ## I'm Ali.
 
-Frontend Developer building modern web applications with React and Next.js.
+Software Developer specializing in modern web applications with React and Next.js.
 
 I believe the best way to learn is by building.
 
@@ -23,9 +23,19 @@ Every repository tells the story of something I've learned, built, or improved.
 - 🎬 Building a Full-Stack Movie Platform
 - ⚙️ Learning NestJS & PostgreSQL
 - 🐍 Exploring Python
-- ⚡ Planning Electron applications
+- ⚡ Learning Electron for cross-platform desktop apps
 
 ###
+
+## 🌟 Featured Projects
+
+| Project | Status | Description |
+|:-------- |:-----:|------------|
+| 🎬 **[Movie Platform](...)** | 🚧 | Full-stack streaming platform built with Next.js, NestJS & PostgreSQL |
+| 💻 **[GSAP MacBook Landing](...)** | ✅ | Apple-inspired landing page with GSAP animations |
+| 🤖 **[Telegram Support Bot](...)** | 🔜 | Business support bot with Telegram Bot API |
+| 📱 **[Habit Tracker](...)** | 🔜 | Cross-platform productivity app |
+| ❤️ **[Persian Tinder](...)** | 🔜 | Mobile matchmaking application |
 
 ## 💻 Technologies I Work With
 
@@ -42,7 +52,7 @@ Every repository tells the story of something I've learned, built, or improved.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  /> -->
 </div>
 
 ###
@@ -70,7 +80,7 @@ Every repository tells the story of something I've learned, built, or improved.
 <p align="center">
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-esmaeiili/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:Ali.Esmaeili.Dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ali.Esmaeili.Dev@gmail.com)
 </p>
 <!-- <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/ali-esmaeiili/" target="_blank">
@@ -88,8 +98,8 @@ Every repository tells the story of something I've learned, built, or improved.
   <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 <p align="center">
   <a href="https://github.com/Esmaeili-Ali">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esmaeili-Ali&custom_title=⚡Contribution%20Activity&bg_color=0d1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true"
-      alt="⚡ Contribution Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esmaeili-Ali&custom_title=⚡Development%20Activity&bg_color=0d1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true"
+      alt="⚡ Development  Activity">
   </a>
 </p>
 </div>
