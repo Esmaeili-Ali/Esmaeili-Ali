@@ -31,8 +31,6 @@ Every repository tells the story of something I've learned, built, or improved.
 
 ## 💻 Technologies I Work With
 
-<div align="center">
-
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -44,10 +42,13 @@ Every repository tells the story of something I've learned, built, or improved.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="60" alt="angularjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
 </div>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
@@ -59,13 +60,14 @@ Every repository tells the story of something I've learned, built, or improved.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="60" alt="sqlite logo"  />
-</div>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
 </div>
 
 ## 📬 Get in Touch
+
+###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/ali-esmaeiili/" target="_blank">
@@ -78,17 +80,17 @@ Every repository tells the story of something I've learned, built, or improved.
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="100" alt="languages graph"  />
-</div>
-
-###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="100" alt="languages graph"  />
+</div>
 
 ###
