@@ -56,13 +56,6 @@ Every repository tells the story of something I've learned, built, or improved.
 
 ###
 
-## 🌟 Featured Projects
-
-| Project | Status | Description |
-|:-------- |:----------------------:|------------|
-| 💻 **[GSAP MacBook Landing](...)** | ✅ **Completed** | Apple-inspired landing page with GSAP animations |
-| 🎬 **[Movie Platform](...)** | 📝 **Planning** | Full-stack streaming platform built with Next.js, NestJS & PostgreSQL |
-
 
 
 ###
@@ -85,15 +78,6 @@ Every repository tells the story of something I've learned, built, or improved.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Esmaeili-Ali/Esmaeili-Ali/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-## 🚀 Current Focus
-
-- 🎬 Building a Full-Stack Movie Platform
-- ⚙️ Learning NestJS & PostgreSQL
-- 🐍 Exploring Python
-- ⚡ Learning Electron for cross-platform desktop apps
 
 ###
 
